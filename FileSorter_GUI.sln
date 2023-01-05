@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSorter_GUI", "Nederman_GUI\FileSorter_GUI.csproj", "{1930D7BF-C77D-4C7C-928C-9D2FC65C1B54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1930D7BF-C77D-4C7C-928C-9D2FC65C1B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1930D7BF-C77D-4C7C-928C-9D2FC65C1B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1930D7BF-C77D-4C7C-928C-9D2FC65C1B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1930D7BF-C77D-4C7C-928C-9D2FC65C1B54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AC1A097-8345-43D7-A479-2990E2B09242}
+	EndGlobalSection
+EndGlobal
